@@ -1,6 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+Sandeep+Gummadavelli+Here..!;+It's+Great+Connecting+With+You..!;" />
 </h1>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 <h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm SANDEEP GUMMADAVELLI</h1>
 <h3 align="center">I'm passionate towards Software Development and programming..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gummadavellisandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gummadavellisandeep" /> </p>
