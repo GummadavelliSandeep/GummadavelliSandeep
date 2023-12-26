@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [gummadaveliisandeep25@gmail.com](gummadaveliisandeep25@gmail.com)
 
-- ⚡ Fun fact **I Can talk 24/7 about Cricket**
+- ⚡ Fun fact **😂Midnight Programmer**
 
 - ⚡ Hobbies: **Internet,Music,Playing Cricket**
 
