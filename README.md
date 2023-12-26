@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/Sandeep?logo=twitter&style=for-the-badge" alt="Sandeep"  </p>
 
-- 🔭 I'm currently pursuing my **BTech 3rd year at GRIET College.**
+- 🔭 I'm currently pursuing my **B.Tech 3rd year at GRIET College.**
 
 - 🌱 I’m currently learning **Software Development,Competitve programming**
 
