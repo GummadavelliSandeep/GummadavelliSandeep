@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+I,m+Gummadavelli+Sandeep.+;+It's+Great+Connecting+With+You!;" />
 </h1>
 <div align="center"> 
-    <a href="https://www.linkedin.com/in/gummadavelli-sandeep-ab690422a/" target="_blank">
          <a href="mailto:gummadavellisandeep25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="30" />
   </a>
+     <a href="https://www.linkedin.com/in/gummadavelli-sandeep-ab690422a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30" />
     </a>
 </div>
