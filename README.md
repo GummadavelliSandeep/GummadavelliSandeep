@@ -3,7 +3,7 @@
 </h1>
 <div align="center"> 
     <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
 </div>
 <h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm SANDEEP GUMMADAVELLI</h1>
