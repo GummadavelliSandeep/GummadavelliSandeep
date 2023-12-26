@@ -10,17 +10,7 @@
     </a>
 </div>
 <br>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 <h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm GUMMADAVELLI SANDEEP</h1>
 <h3 align="center">I'm passionate towards Software Development and programming..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gummadavellisandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gummadavellisandeep" /> </p>
