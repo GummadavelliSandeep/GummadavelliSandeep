@@ -27,11 +27,11 @@
 
 - 😂 Pronouns: [he/him](he/him)
 
-- 📫 How to reach me [gummadavellisandeep25@gmail.com](gummadavellisandeep25@gmail.com)
+- ⚡ Hobbies: [Internet,Music,Playing Cricket](Internet,Music,Playing Cricket)
 
 - ⚡ Fun fact **😂Midnight Programmer**
 
-- ⚡ Hobbies: **Internet,Music,Playing Cricket**
+- 📫 How to reach me **gummadaveliisandeep25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
