@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+Sandeep+Gummadavelli+Here..!;+It's+Great+Connecting+With+You..!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+Gummadavelli+Sandeep+Here..!;+It's+Great+Connecting+With+You..!;" />
 </h1>
 <div align="center"> 
     <a href="" target="_blank">
@@ -10,7 +10,7 @@
     </a>
 </div>
 <br>
-<h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm SANDEEP GUMMADAVELLI</h1>
+<h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm GUMMADAVELLI SANDEEP</h1>
 <h3 align="center">I'm passionate towards Software Development and programming..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gummadavellisandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gummadavellisandeep" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
