@@ -6,6 +6,22 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I'm currently pursuing my **BTech 3rd year at GRIET College.**
+
+- 💬 Ask me About **Data Structure in Java,JavaScript,Bootstrap**
+
+- 🌱 I’m currently learning **Software Development,Competitve programming**
+
+- 🤝 I’m looking for help from **every technology enthusiast out there.**
+
+- 😂 Pronouns: [he/him](he/him)
+
+- 📫 How to reach me [gummadaveliisandeep25@gmail.com](gummadaveliisandeep25@gmail.com)
+
+- ⚡ Fun fact **I Can talk 24/7 about Cricket**
+
+- ⚡ Hobbies: **Internet,Music,Playing Cricket**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gummadavelli-sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummadavelli-sandeep" height="30" width="40" /></a>
