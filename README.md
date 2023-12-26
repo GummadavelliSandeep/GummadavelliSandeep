@@ -1,4 +1,3 @@
-<h1 align="center">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()</h1>
 <h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm SANDEEP GUMMADAVELLI</h1>
 <h3 align="center">I'm passionate towards Software Development and programming..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gummadavellisandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gummadavellisandeep" /> </p>
