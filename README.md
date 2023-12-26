@@ -27,7 +27,7 @@
 
 - 😂 Pronouns: [he/him](he/him)
 
-- 📫 How to reach me [gummadavellisandeep@gmail.com]<a href="mailto:gummadavellisandeep25@gmail.com">
+- 📫 How to reach me [gummadavellisandeep25@gmail.com]mailto:gummadavellisandeep25@gmail.com")
 
 - ⚡ Fun fact **😂Midnight Programmer**
 
