@@ -36,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gummadavelli-sandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummadavelli-sandeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gummadavelli-sandeep-ab690422a/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummadavelli-sandeep" height="30" width="40" /></a>
 <a href="https://instagram.com/sandeep_2_8_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep_2_8_2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sandeep_282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandeep_282" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandeep_282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_282" height="30" width="40" /></a>
