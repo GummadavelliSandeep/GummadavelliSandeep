@@ -14,7 +14,7 @@
 <h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm GUMMADAVELLI SANDEEP</h1>
 <h3 align="center"><b>"I'm passionate towards Software Development and programming."</b></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gummadavellisandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gummadavellisandeep" /> </p>
-<img align="right" alt="Coding" width="400"height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/Sandeep?logo=twitter&style=for-the-badge" alt="Sandeep"  </p>
 
 - 🔭 I'm currently pursuing my **BTech 3rd year at GRIET College.**
