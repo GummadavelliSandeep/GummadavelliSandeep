@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm SANDEEP GUMMADAVELLI</h1>
 <h3 align="center">I'm passionate towards Software Development and programming..</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gummadavellisandeep&label=Profile%20views&color=0e75b6&style=flat" alt="gummadavellisandeep" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I'm currently pursuing my **BTech 3rd year at GRIET College.**
 
