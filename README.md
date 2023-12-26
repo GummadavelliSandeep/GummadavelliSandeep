@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help from **every technology enthusiast out there.**
 
-- 💬 Ask me About **Data Structure in Java,JavaScript,Bootstrap**
+- 💻 Languages: **Java(Primary),Python,Html,CSS, JavaScript,Bootstrap**
 
 - 😂 Pronouns: [he/him](he/him)
 
