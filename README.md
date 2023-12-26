@@ -50,7 +50,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gummadavellisandeep&" alt="gummadavellisandeep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gummadavellisandeep&show_icons=true&locale=en" alt="gummadavellisandeep" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gummadavellisandeep&" alt="gummadavellisandeep" /></p>
-
