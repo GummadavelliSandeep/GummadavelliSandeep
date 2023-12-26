@@ -19,9 +19,9 @@
 
 - 🔭 I'm currently pursuing my **BTech 3rd year at GRIET College.**
 
-- 💬 Ask me About **Data Structure in Java,JavaScript,Bootstrap**
-
 - 🌱 I’m currently learning **Software Development,Competitve programming**
+
+- 💬 Ask me About **Data Structure in Java,JavaScript,Bootstrap**
 
 - 🤝 I’m looking for help from **every technology enthusiast out there.**
 
