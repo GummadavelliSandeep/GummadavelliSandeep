@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+I,m+Gummadavelli+Sandeep+;+It's+Great+Connecting+With+You!;" />
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gummadavellisandeep)](https://github.com/gummadavellisandeep/github-readme-stats)
 </h1>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gummadavellisandeep)](https://github.com/gummadavellisandeep/github-readme-stats)
 <div align="center"> 
          <a href="mailto:gummadavellisandeep25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="30" />
