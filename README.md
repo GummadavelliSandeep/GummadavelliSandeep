@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help from **every technology enthusiast out there.**
 
-- 💻 Languages: **Java(Primary),Python,Html,CSS, JavaScript,React Js**
+- 💻 Languages: **Java(Primary) | C |Python**
 
 - 😂 Pronouns: [he/him](he/him)
 
