@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+I,m+Gummadavelli+Sandeep+Here..;+It's+Great+Connecting+With+You!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+There!+👋;+I,m+Gummadavelli+Sandeep+Here.;+It's+Great+Connecting+With+You!;" />
 </h1>
 <div align="center"> 
          <a href="mailto:gummadavellisandeep25@gmail.com">
