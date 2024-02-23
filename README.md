@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **gummadaveliisandeep25@gmail.com**
 
-- ⚡ Hobbies: **Internet,Music,Playing Cricket**
+- ⚡ Hobbies: **Travelling,Music,Playing Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
